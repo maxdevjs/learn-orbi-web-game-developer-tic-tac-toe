@@ -12,7 +12,7 @@ Codes for `jogo da velha (tic tac toe)` - [Órbi](https://orbi.co/) Web Games De
 
 ### Play the game
 
-[maxdevjs.github.io/learn-orbi-web-game-developer-tic-tac-to](https://maxdevjs.github.io/learn-orbi-web-game-developer-tic-tac-toe/)
+[maxdevjs.github.io/learn-orbi-web-game-developer-tic-tac-toe](https://maxdevjs.github.io/learn-orbi-web-game-developer-tic-tac-toe/)
 
 ### How to play
 
