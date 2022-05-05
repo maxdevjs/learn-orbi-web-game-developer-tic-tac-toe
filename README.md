@@ -1,8 +1,12 @@
 # learn-orbi-web-game-developer-tic-tac-toe
 
-![screenshot](./img/play.png?raw=true "screenshot")
+![screenshot](./img/01-basic-css-cosmetic.png?raw=true "screenshot")
 
 Codes for `jogo da velha (tic tac toe)` - [Órbi](https://orbi.co/) Web Games Developer bootcamp at [DIO.\_](https://www.dio.me/en) (inital version).
+
+|Note1 check the available branches: they are numbered and each one presents an incremental update (check also the [Todo](#todo) section for details)
+
+|Note2 the [main](https://github.com/maxdevjs/learn-orbi-web-game-developer-tic-tac-toe/tree/main) branch always reflects the latest version
 
 ## Instructions
 
@@ -19,10 +23,25 @@ Click on the preferred square.
 ### Original author
 
 [Jogo da Velha](https://github.com/ruschoni02/jogo-da-velha) (ruschoni02/jogo-da-velha)
+![screenshot](./img/play.png?raw=true "screenshot")
+
+## Resources
+
+- [x] [Git: Merge Branch into Master](https://stackabuse.com/git-merge-branch-into-master/)
 
 ## TODO
 
 - [ ] refactor code 😙
+- [ ] make it responsive 😙
+
+- [x] initial code: [00-initial](https://github.com/maxdevjs/learn-orbi-web-game-developer-tic-tac-toe/tree/00-initial)
+- [x] basic cosmetic css [01-basic-css-cosmetic](https://github.com/maxdevjs/learn-orbi-web-game-developer-tic-tac-toe/tree/01-basic-css-cosmetic)
+  - [x] rounded corners
+  - [x] [box-shadow](https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow)
+  - [x] [text-shadow](https://developer.mozilla.org/en-US/docs/Web/CSS/text-shadow)
+  - [x] background [linear-gradient()](https://developer.mozilla.org/en-US/docs/Web/CSS/gradient/linear-gradient)
+    - [x] [Extra scrollbar when body height is 100vh](https://www.sitepoint.com/community/t/extra-scrollbar-when-body-height-is-100vh/257883/2)
+  - [x] add [GitHub Corners](https://github.com/tholman/github-corners) to link to the repo from the demo page
 - [ ] sound effects? 🎶🎸
 - [ ] win effect 🎉
 - [ ] initial instructions screen (instead of playing straight and with no clues about how to play). Perhaps, very unikely 😴
