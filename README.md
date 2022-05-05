@@ -8,7 +8,7 @@ Codes for `jogo da velha (tic tac toe)` - [Órbi](https://orbi.co/) Web Games De
 
 ### Play the game
 
-[maxdevjs.github.io/learn-dio-dino](https://maxdevjs.github.io/learn-dio-dino/)
+[maxdevjs.github.io/learn-orbi-web-game-developer-tic-tac-to](https://maxdevjs.github.io/learn-orbi-web-game-developer-tic-tac-toe/)
 
 ### How to play
 
