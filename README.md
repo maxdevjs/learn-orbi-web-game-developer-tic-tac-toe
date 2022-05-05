@@ -42,7 +42,13 @@ Click on the preferred square.
   - [x] background [linear-gradient()](https://developer.mozilla.org/en-US/docs/Web/CSS/gradient/linear-gradient)
     - [x] [Extra scrollbar when body height is 100vh](https://www.sitepoint.com/community/t/extra-scrollbar-when-body-height-is-100vh/257883/2)
   - [x] add [GitHub Corners](https://github.com/tholman/github-corners) to link to the repo from the demo page
-- [ ] sound effects? 🎶🎸
+- [ ] sound effects 🎶🎸 [02-sound-effects](https://github.com/maxdevjs/learn-orbi-web-game-developer-tic-tac-toe/tree/02-sound-effects)
+  - [x] solve `Autoplay is only allowed when approved by the user, the site is activated by the user, or media is muted.`
+    - [x] temporarily solved with a modal
+    - [ ] check:
+      - [ ] [Autoplay guide for media and Web Audio APIs](https://developer.mozilla.org/en-US/docs/Web/Media/Autoplay_guide)
+      - [ ] [How to play MP3 in the background music automatically?](https://forum.freecodecamp.org/t/how-to-play-mp3-in-the-background-music-automatically/308554)
+- [ ] shake effect on click in an already clicked square
 - [ ] win effect 🎉
 - [ ] initial instructions screen (instead of playing straight and with no clues about how to play). Perhaps, very unikely 😴
   - [ ] autoplay? Why not... 🤔😈
